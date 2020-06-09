@@ -49,3 +49,7 @@ int PWMvalue = 55;
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
++ **Billie Thompson** - *Template for Readme* - [PurpleBooth](https://github.com/PurpleBooth)
